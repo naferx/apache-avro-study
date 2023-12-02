@@ -14,3 +14,5 @@ user.avsc .
 Input files to compile:
   schemas/user.avsc
 ```
+
+ `mvn -q exec:java -Dexec.mainClass=example.avro.Main`
